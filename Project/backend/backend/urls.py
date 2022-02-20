@@ -20,7 +20,6 @@ from project import views
 
 router = routers.DefaultRouter()
 router.register(r'todos', views.TodoView, 'todo')
-router.register(r'users')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
