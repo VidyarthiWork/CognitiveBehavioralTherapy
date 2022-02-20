@@ -1,0 +1,28 @@
+<header class="header">
+ <div class="container">
+  <div class="row">
+   <div class="col-lg-12">
+    <div class="text-container">
+     <h1>How are you feeling today?</h1>
+     <img class="img-fluid2" src="images/Angry.png" alt="alternative" href="" />
+     <img class="img-fluid2" src="images/happy.png" alt="alternative" href="" />
+     <img class="img-fluid2" src="images/sad.png" alt="alternative" href="" />
+     <img
+      class="img-fluid2"
+      src="images/neutral.png"
+      alt="alternative"
+      href=""
+     />
+     <img
+      class="img-fluid2"
+      src="images/anxious.png"
+      alt="alternative"
+      href=""
+     />
+    </div>
+    <!-- end of text-container -->
+   </div>
+   <!-- end of col -->
+  </div>
+ </div>
+</header>

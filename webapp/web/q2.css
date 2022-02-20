@@ -1,0 +1,6 @@
+.one {
+ height: 25%;
+ width: 25%;
+ background-color: red;
+ display: flex;
+}
